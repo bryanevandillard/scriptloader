@@ -60,6 +60,7 @@ if they're created using `innerHTML`, which is how `domify` works.
 * [Alex Gorbatchev](http://github.com/alexgorbatchev)
 * [Dominykas Blyžė](http://github.com/dymonaz)
 * [Jonathan Ong](http://github.com/jonathanong)
+* [Preston Glevos](http://github.com/prestonmglevos)
 
 ## License
 
